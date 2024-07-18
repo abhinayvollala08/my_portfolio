@@ -8,7 +8,7 @@ import { SiMysql } from "react-icons/si";
 import { FaLaptopCode } from "react-icons/fa";
 
 const Myskills = () => {
-  return <div className="border-b border-neutral-800 pb-24" id="technologies">
+  return <div className="border-b border-neutral-800 pb-24 " id="technologies">
     <div className='flex items-center justify-center '>
       <h2 className="my-10 text-center text-4xl">My
         <span className="text-blue-400" > Skills</span>
@@ -17,46 +17,46 @@ const Myskills = () => {
     </div>
 
 
-    <div className="grid grid-cols-3">
+    <div className="grid grid-cols-3 mr-8">
 
-      <div className=" basis-1/12 gap-4 mx-16 my-8">
+      <div className=" basis-1/12 mx-8 my-8">
         <div className="rounded-2xl  flex flex-col items-center justify-center hover:shadow-[0px_9px_13px_0px_#cbd5e0] px-12 py-4  border border-t-0 border-white-400">
           <TbBrandCpp className="text-7xl text-white-400 " />
           <p className="text-center pl-1 mt-2">C++</p>
         </div>
       </div>
-      <div className="basis-1/12 gap-4 mx-16 my-8">
+      <div className="basis-1/12 mx-8 my-8">
         <div className="rounded-2xl flex flex-col items-center justify-center hover:shadow-[0px_9px_13px_0px_#FFCC33] px-12 py-4 border border-t-0 border-amber-400">
           <FaJava className="text-7xl text-amber-400" />
           <p className="text-center pl-1 mt-2">Java</p>
         </div>
       </div>
-      <div className="basis-1/12 gap-4 mx-16 my-8">
+      <div className="basis-1/12 mx-8 my-8">
         <div className="rounded-2xl flex flex-col items-center justify-center hover:shadow-[0px_9px_13px_0px_#63b3ed] px-12 py-4 border border-t-0 border-cyan-400">
           <RiReactjsLine className="text-7xl text-cyan-400" />
           <p className="text-center pl-1 mt-2">React</p>
         </div>
       </div>
-      <div className="basis-1/12 gap-4 mx-16 my-8">
+      <div className="basis-1/12 mx-8 my-8">
         <div className="rounded-2xl flex flex-col items-center justify-center hover:shadow-[0px_9px_13px_0px_#ed8936] px-12 py-4 border border-t-0 border-orange-400">
           <FaHtml5 className="text-7xl text-orange-400" />
           <p className="text-center pl-1 mt-2">HTML</p>
         </div>
       </div>
-      <div className="basis-1/12 gap-4 mx-16 my-8">
+      <div className="basis-1/12 mx-8 my-8">
         <div className="rounded-2xl flex flex-col items-center justify-center hover:shadow-[0px_9px_13px_0px_#4fd1c5] px-12 py-4 border border-t-0 border-teal-400">
           <SiMysql className="text-7xl text-teal-400" />
           <p className="text-center pl-1 mt-2">MySQL</p>
         </div>
       </div>
-      <div className="basis-1/12 gap-4 mx-16 my-8">
+      <div className="basis-1/12 mx-8  my-8">
         <div className="rounded-2xl flex flex-col items-center justify-center hover:shadow-[0px_9px_13px_0px_#cbd5e0] px-12 py-4 border border-t-0 border-white-400">
           <FaGithub className="text-7xl text-white-400" />
           <p className="text-center pl-1 mt-2">Github</p>
         </div>
       </div>
       
-      <div className="basis-1/12 gap-4 mx-16 my-8">
+      <div className="basis-1/12  my-8 mx-8 ">
         <div className="rounded-2xl flex flex-col items-center justify-center hover:shadow-[0px_9px_13px_0px_#4299e1] px-12 py-4 border border-t-0 border-blue-400">
           <FaCss3Alt className="text-7xl text-blue-400" />
           <p className="text-center pl-1 mt-2">CSS</p>
