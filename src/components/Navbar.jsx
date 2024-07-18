@@ -8,7 +8,7 @@ const Navbar = () => {
   return <div>
     <nav className="bg-white dark:bg-gray-900 backdrop-blur-sm fixed w-full z-20 top-0 start-0 border-b border-gray-900 dark:border-gray-600">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-        <Link to="hero" spy={true} smooth={true} offset={-50} duration={500} className="flex items-center space-x-3 cursor-pointer">
+        <Link to="hero" spy={true} smooth={true} offset={-100} duration={500} className="flex items-center space-x-3 cursor-pointer">
           <img className="mx-1 w-12" src={logo} alt="Home" />
           <span className="self-center text-1xl font-semibold whitespace-nowrap dark:text-white ">Abhinay Vollala</span>
         </Link>
