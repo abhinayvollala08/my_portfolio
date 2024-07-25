@@ -12,7 +12,7 @@ import { SiMysql } from "react-icons/si";
 import React from "react";
 
 
-export const HERO_CONTENT = `I ’m a programmer who pays close attention to details. I love working with C++, and I ’ m always eager to learn more about data structures, algorithms, and web development.`
+export const HERO_CONTENT = `I ’m a programmer who pays close attention to details. I love working with C++, and I’m always eager to learn more about data structures, algorithms, and web development.`
 
 export const ABOUT_TEXT = `Hello, I’m Venkata Sai Abhinay, pursuing Computer Science at CMR TECHNICAL CAMPUS. My self-motivation drives me to learn and solve problems daily. Besides my studies, I’ve explored web development and created practical projects that address real-world challenges. I continuously expand my knowledge and contribute to meaningful solutions.`;
 
