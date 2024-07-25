@@ -20,7 +20,7 @@ const Hero = () => {
                     <p className="my-2 max-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</p>
                     <button class="bg-gradient-to-tr from-cyan-400 to-purple-400 hover:shadow-[0px_0px_33px_1px_#a3bffa] text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center">
                         <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" /></svg>
-                        <a href=""><span>Resume</span></a>
+                        <a href="https://github.com/abhinayvollala08/my_portfolio/blob/main/imgs/Abhinay%20Resume.pdf"><span>Resume</span></a>
                     </button>
                 </div>
 
