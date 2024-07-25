@@ -14,8 +14,8 @@ const Hero = () => {
                     <div className="my-2 flex flex-start gap-4 ">
                         <a href="https://www.linkedin.com/in/abhinayvollala/"><FaLinkedin className="text-2xl  hover:text-blue-400" /></a>
                         <a href="https://github.com/abhinayvollala08"><FaGithub className="text-2xl hover:text-gray-100" /></a>
-                        <a href="#"><FaInstagram className="text-2xl hover:text-pink-400 " /></a>
-                        <a href="#"><FaSquareXTwitter className="text-2xl  hover:text-gray-600" /></a>
+                        <a href="https://www.instagram.com/abhinay.vollala/"><FaInstagram className="text-2xl hover:text-pink-400 " /></a>
+                        <a href="https://x.com/VollalaAbhinay"><FaSquareXTwitter className="text-2xl  hover:text-gray-600" /></a>
                     </div>
                     <p className="my-2 max-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</p>
                     <button class="bg-gradient-to-tr from-cyan-400 to-purple-400 hover:shadow-[0px_0px_33px_1px_#a3bffa] text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center">
